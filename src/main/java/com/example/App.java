@@ -2,6 +2,8 @@ package com.example;
 
 import org.apache.commons.lang3.StringUtils;
 
+// Comment
+
 public class App {
 
     public String greeting(String name) {
